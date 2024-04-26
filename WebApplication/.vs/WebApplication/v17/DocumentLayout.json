@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|c:\\users\\lwq_0\\desktop\\introduction-to-software-engineering-team-assignments\\webapplication\\webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|c:\\users\\lwq_0\\desktop\\introduction-to-software-engineering-team-assignments\\webapplication\\webapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\WebApplication\\Program.cs",
+              "RelativeToolTip": "WebApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:56:39.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\WebApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\WebApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:56:32.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

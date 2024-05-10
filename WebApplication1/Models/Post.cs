@@ -51,7 +51,7 @@ public class Post
         }
 
 
-        public override int GetHashCode()//返回密码的hashcode
+        public override int GetHashCode()//返回hashcode
         {
             return postId.GetHashCode();
         }

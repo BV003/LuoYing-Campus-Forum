@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|c:\\users\\lwq_0\\desktop\\introduction-to-software-engineering-team-assignments\\webapplication\\webapplication\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|c:\\users\\lwq_0\\desktop\\introduction-to-software-engineering-team-assignments\\webapplication\\webapplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\webapplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|c:\\users\\lwq_0\\desktop\\introduction-to-software-engineering-team-assignments\\webapplication\\webapplication\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\webapplication\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70AFCA00-C300-4162-B7C7-79C1752FFDB6}|WebApplication\\WebApplication.csproj|C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\webapplication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CourseService.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\WebApplication\\Services\\CourseService.cs",
               "RelativeDocumentMoniker": "WebApplication\\Services\\CourseService.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\WebApplication\\Models\\Course.cs",
               "RelativeDocumentMoniker": "WebApplication\\Models\\Course.cs",
@@ -63,8 +63,7 @@
               "RelativeToolTip": "WebApplication\\Models\\Course.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T07:39:00.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T07:39:00.531Z"
             },
             {
               "$type": "Document",
@@ -80,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\WebApplication\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebApplication\\Models\\User.cs",
@@ -88,12 +87,11 @@
               "RelativeToolTip": "WebApplication\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T08:54:52.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T08:54:52.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\WebApplication\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "WebApplication\\Services\\UserService.cs",
@@ -101,12 +99,11 @@
               "RelativeToolTip": "WebApplication\\Services\\UserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T08:54:19.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T08:54:19.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\Introduction-to-Software-Engineering-Team-Assignments\\WebApplication\\WebApplication\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication\\Program.cs",
@@ -114,7 +111,8 @@
               "RelativeToolTip": "WebApplication\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T10:56:39.897Z"
+              "WhenOpened": "2024-04-26T10:56:39.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

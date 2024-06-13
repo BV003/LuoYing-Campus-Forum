@@ -14,6 +14,9 @@ namespace softs
         // 评论id
         public int commentId { get; set; }
 
+        // 帖子id
+        public int postId { get; set; }
+
         // 评论用户
         public int commentUserId { get; set; }
 
@@ -26,22 +29,26 @@ namespace softs
         // 点赞人数
         public int CommentLikeCount { get; set; }
 
-        // 点赞用户列表（用于增删点赞）
+        // 点赞用户列表（用于增删点赞）（导航）
         public List<User>? CommentLikeUserList { get; set; }
 
-        // 回复评论列表
-        public List<Comment>? ReplyList { get; set; }
+        // 回复评论列表（导航）
+        public virtual ICollection<Reply> ReplyList { get; set; }
+
+        // 导航
+        public virtual Post Post { get; set; }
 
         Comment() { }
 
-        public Comment(int commentUserId, string commentContent)
+        public Comment(int commentUserId, int postId, string commentContent)
         {
             this.commentUserId = commentUserId;
+            this.postId = postId;
             this.commentContent = commentContent;
             this.commentTime = DateTime.Now;
             this.CommentLikeCount = 0;
-            CommentLikeUserList = null;
-            ReplyList = null;
+            CommentLikeUserList = new List<User>();
+            ReplyList = new List<Reply>();
         }
     }
 }

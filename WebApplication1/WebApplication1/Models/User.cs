@@ -13,6 +13,8 @@ namespace softs
         public string username { get; set; }
         public string password { get; set; }
 
+        public string url { get; set; }
+
         public User(int userId,string username,string password)
         {
             this.userId = userId;

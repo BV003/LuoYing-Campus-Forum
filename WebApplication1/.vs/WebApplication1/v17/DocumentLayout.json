@@ -3,68 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\repositories\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\models\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\webapplication1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\webapplication1\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\services\\timetableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\timetableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\webapplication1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|c:\\users\\lwq_0\\desktop\\luoying-campus-forum\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\webapplication1\\repositories\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\webapplication1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC861AE2-B377-4CFB-9C05-CFD876584392}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,40 +59,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Services\\PostService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\PostService.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAuwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:19:14.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PostController.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PostController.cs",
               "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Controllers\\PostController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\PostController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAwBYAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:36:45.807Z",
+              "WhenOpened": "2024-06-13T13:19:02.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "Reply.cs",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\Reply.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Reply.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\Reply.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Reply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:18:43.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\Course.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Course.cs",
               "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\Course.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Course.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:36:29.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T13:36:29.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Comment.cs",
               "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\Comment.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:36:20.994Z",
+              "WhenOpened": "2024-06-13T01:32:58.185Z",
               "EditorCaption": ""
             },
             {
@@ -123,92 +128,38 @@
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Post.cs",
               "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\Post.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAArAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAA7wAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T13:35:21.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostService.cs",
-              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Services\\PostService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\PostService.cs",
-              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Services\\PostService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\PostService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:34:36.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Timetable.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\Timetable.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Timetable.cs",
               "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\Timetable.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Timetable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:24:58.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TimetableController.cs",
-              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Controllers\\TimetableController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TimetableController.cs",
-              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Controllers\\TimetableController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\TimetableController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAIwCoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:12:12.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:10:29.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:24:58.684Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CourseService.cs",
-              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Services\\CourseService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\CourseService.cs",
-              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Services\\CourseService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\CourseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:07:56.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Services\\UserService.cs",
               "RelativeToolTip": "WebApplication1\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwHEAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:03:13.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:03:13.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "UserDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Repositories\\UserDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Repositories\\UserDbContext.cs",
@@ -216,21 +167,7 @@
               "RelativeToolTip": "WebApplication1\\Repositories\\UserDbContext.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAIwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:03:12.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TimetableService.cs",
-              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Services\\TimetableService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\TimetableService.cs",
-              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Services\\TimetableService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\TimetableService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAjwAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:11:29.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:03:12.548Z"
             },
             {
               "$type": "Document",
@@ -240,49 +177,21 @@
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwDoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:03:06.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:03:06.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-11T12:02:34.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T11:59:24.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
               "ToolTip": "C:\\Users\\lwq_0\\Desktop\\LuoYing-Campus-Forum\\WebApplication1\\WebApplication1\\Models\\User.cs",
               "RelativeToolTip": "WebApplication1\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:03:10.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:03:10.116Z"
             }
           ]
         }

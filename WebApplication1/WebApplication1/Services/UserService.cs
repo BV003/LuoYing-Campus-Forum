@@ -82,5 +82,52 @@ namespace softs
                .SingleOrDefault(o => o.username ==username);
         }
 
+        public User GetUserById(int userId)
+        {
+            // 在数据库中查找用户ID对应的用户
+            var user = dbContext.Users.SingleOrDefault(u => u.userId == userId);
+
+            // 如果用户存在，则返回用户对象
+            // 如果用户不存在，则返回null
+            return user;
+        }
+
+        public string GetUrl(int userid)
+        {
+             var user = dbContext.Users.SingleOrDefault(u => u.userId == userid);
+
+            // 如果用户不存在，则返回null或抛出异常
+            if (user == null)
+            {
+                // 可以选择返回null，或者抛出一个异常，例如:
+                // throw new Exception("User not found with id: " + userId);
+                return null;
+            }
+
+            // 如果用户存在，则返回用户的URL属性
+            return user.url;
+        }
+
+        public bool PostUrl(int userId, string url)
+        {
+            // 根据userId查找用户
+            var user = dbContext.Users.SingleOrDefault(u => u.userId == userId);
+
+            // 如果用户不存在，则返回false
+            if (user == null)
+            {
+                return false;
+            }
+
+            // 更新用户的url属性
+            user.url = url;
+
+            // 保存更改到数据库
+            dbContext.SaveChanges();
+
+            // 更新成功，返回true
+            return true;
+        }
+
     }
 }

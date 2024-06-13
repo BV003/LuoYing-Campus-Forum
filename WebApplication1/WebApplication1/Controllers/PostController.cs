@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using softs;
+
 
 namespace softs
 {
@@ -42,10 +44,26 @@ namespace softs
             }
         }
 
+        public class postInfo{
+            public int userId { get; set; }
+            public string? title { get; set; }
+            public string? content { get; set; }
+            public string[]? tags { get; set; }
+            public string[]? images { get; set; }
+        }
+
         [HttpPost("create_post")]
-        public ActionResult<string> createPost(int userId, string? title, string? content)
+        public ActionResult<string> createPost([FromBody] postInfo p)
         {
-            Post post = new Post(userId, title, content);
+            string tagStr = "", imageStr = "";
+            for (int i = 0; i < p.tags.Length || i < p.images.Length; i++) 
+            {
+                if (i < p.tags.Length)
+                    tagStr += p.tags[i] + ",";
+                if (i < p.images.Length)
+                    imageStr += p.images[i] + ",";
+            }
+            Post post = new Post(p.userId, p.title, p.content, tagStr, imageStr);
             if (postService.AddPost(post))
             {
                 return ("帖子创建成功");
@@ -83,15 +101,28 @@ namespace softs
         }
 
         [HttpPost("comment_post")]
-        public ActionResult<string> commentPost(int postId, int userId, string commentContent)
+        public ActionResult<string> commentPost(int commentUserId, int postId, string commentContent)
         {
-            if (postService.CommentPost(postId, userId, commentContent))
+            if (postService.CommentPost(commentUserId, postId, commentContent))
             {
                 return ("已评论");
             }
             else
             {
                 return Unauthorized("评论失败");
+            }
+        }
+
+        [HttpPost("reply_comment")]
+        public ActionResult<string> replyComment(int commentId, int postId, int replyUserId, string replyContent)
+        {
+            if (postService.ReplyComment(commentId, postId, replyUserId, replyContent)) 
+            {
+                return ("已回复评论");
+            }
+            else
+            {
+                return Unauthorized("回复评论失败");
             }
         }
 
@@ -121,7 +152,7 @@ namespace softs
             }
         }
 
-        [HttpDelete("cancal_fav")]
+        [HttpPut("cancal_fav")]
         public ActionResult<string> cancelFav(int postId, int userId)
         {
             if (postService.CancelFavPost(postId, userId))

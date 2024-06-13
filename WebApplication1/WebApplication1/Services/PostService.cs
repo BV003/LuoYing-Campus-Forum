@@ -7,8 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using softs;
+using Microsoft.AspNetCore.Mvc;
 
-namespace softs 
+namespace softs
 {
     public class PostService
     {
@@ -27,7 +28,7 @@ namespace softs
 
         public Post? MatchPost(int postId)
         {
-            var postMatch = dbContext.Posts.SingleOrDefault(o => o.postId == postId);
+            var postMatch = dbContext.Posts.FirstOrDefault(o => o.postId == postId);
             if (postMatch == null)
                 throw new Exception("Post not found");
             else return postMatch;
@@ -145,10 +146,17 @@ namespace softs
         // 取消收藏
         public bool CancelFavPost(int postId, int userId)
         {
-            var postMatch = MatchPost(postId);
+            //var postMatch = MatchPost(postId);
+            var postMatch = dbContext.Posts.Include(p => p.FavUserList)
+                .FirstOrDefault(o => o.postId == postId);
+            if (postMatch == null)
+                throw new Exception("Post not found");
+
             var userMatch = MatchUser(userId, postMatch.FavUserList);
             if (userMatch != null)
             {
+                if (postMatch.FavUserList == null)
+                    postMatch.FavUserList = new List<User>();
                 postMatch.FavUserList.Remove(userMatch);
                 postMatch.favouriteCount--;
                 dbContext.SaveChanges();
@@ -158,9 +166,9 @@ namespace softs
         }
 
         // 评论帖子
-        public bool CommentPost(int postId, int userId, String commentContent)
+        public bool CommentPost(int userId, int postId, String commentContent)
         {
-            Comment comment = new Comment(userId, commentContent);
+            Comment comment = new Comment(userId, postId, commentContent);
             var postMatch = MatchPost(postId);
             if (postMatch != null) 
             {
@@ -172,6 +180,28 @@ namespace softs
                 return true;
             }
             return false;
+        }
+
+        // 回复评论
+        public bool ReplyComment(int commentId, int postId, int replyUserId, string replyContent)
+        {
+            Reply reply = new Reply(commentId, postId, replyUserId, replyContent);
+            var commentMatch = dbContext.Comments
+            .Include(c => c.ReplyList) // 显式加载 ReplyList 导航属性
+            .FirstOrDefault(c => c.commentId == commentId && c.postId == postId);
+
+            if (commentMatch == null)
+                throw new Exception("comment not found");
+
+            // 确保 ReplyList 已初始化
+            if (commentMatch.ReplyList == null)
+                commentMatch.ReplyList = new List<Reply>();
+
+            // 将新回复添加到回复列表中
+            commentMatch.ReplyList.Add(reply);
+            dbContext.SaveChanges();
+
+            return true;
         }
 
         // 删除评论
